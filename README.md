@@ -1,1 +1,1 @@
-# Ecommerce-FAQ-agent
+# FAQ-agent for Ecommerce website
